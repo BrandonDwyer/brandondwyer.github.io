@@ -1,0 +1,75 @@
+.title {
+	text-align: center;
+	color: ivory;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+span {
+	color: red;
+	font-weight: bold;
+}
+.link {
+	color: orangered;
+}
+.link:hover {
+	color: hotpink;
+}
+.biography {
+float: right;
+}
+
+.headshotImage {
+	width: 200px;
+	height: 200px;
+	float: right;
+	border-color: ivory;
+	margin-left: 10px;
+	border: solid 4px;
+}
+
+.subheadings {
+	text-align: left;
+	color: ivory;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.subheadings1 {
+	text-align: center;
+	color: ivory;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.quote {
+	 font-family: sans-serif;  
+    color: ivory;
+    font-weight: normal;
+    font-size: 15px;
+    text-align: center;
+}
+.lists {
+    font-family: sans-serif;  
+    color: ivory;
+    font-weight: normal;
+    font-size: 15px;
+
+}
+table, th, td {  
+    border: 0px;   
+    font-family: sans-serif;  
+    color: ivory;
+    font-weight: normal;
+    font-size: 15px;
+}  
+tr:nth-child(even) {
+	background-color: slategray;
+}
+body {
+	background-color: cornflowerblue;
+	font-family: sans-serif;
+}
